@@ -5,6 +5,20 @@
 <details><summary>2026</summary>
 
 
+14.52.37029.0
+```
+https://download.visualstudio.microsoft.com/download/pr/78d061c5-9ef3-42ab-98ed-3309d1095dc4/9C02C9ED120F671B900E6B9471D890E3B2414117A7E53F4AE2E855466FA2B7C9/VC_redist.x64.exe
+https://download.visualstudio.microsoft.com/download/pr/78d061c5-9ef3-42ab-98ed-3309d1095dc4/7B0117E6E20E9E349029C000A8A2715A52CF37C15B6BB697B2908E8BC7066CDF/VC_redist.x86.exe
+https://download.visualstudio.microsoft.com/download/pr/78d061c5-9ef3-42ab-98ed-3309d1095dc4/3C81BCF5B06156858362400D7066F65ECE38E8ACCB5E687FC65BEF5735F31FFC/VC_redist.arm64.exe
+```
+
+14.52.37025.0
+```
+https://download.visualstudio.microsoft.com/download/pr/98bcc84f-0a9c-417c-a681-d88411dbb90f/7ACA0477C32519E54D888102ECF02495C8C05F83D61858A73BF75958DDC29835/VC_redist.x64.exe
+https://download.visualstudio.microsoft.com/download/pr/9b86116f-5f77-4f8f-8eba-bcea3cbdddc6/067B997E8E2D444EDA6F5ADCE816FCAB23154192C4C04F8EEBB24B01A757F4BF/VC_redist.x86.exe
+https://download.visualstudio.microsoft.com/download/pr/98bcc84f-0a9c-417c-a681-d88411dbb90f/D7396DB95BE3A5F0BC93E02BD915C856081DD5FED9F231A7065F26C57F60ADAC/VC_redist.arm64.exe
+```
+
 14.51.36247.0
 ```
 https://download.visualstudio.microsoft.com/download/pr/ebdab8e5-1d7b-4d9f-a11b-cbb1720c3b12/843068991DAAA1F73AD9F6239BCE4D0F6A07A51F18C37EA2A867E9BECA71295C/VC_redist.x64.exe
@@ -646,7 +660,7 @@ https://download.visualstudio.microsoft.com/download/pr/49eb0868-9b72-47af-a707-
 https://download.visualstudio.microsoft.com/download/pr/a23ce03b-5941-42cd-8d3f-9d08296c319f/13FCD8BF1E138BB748E8D7FB868C5E79BBFB6D1F7FE92025DB0029DE58E24B91/VC_redist.arm64.exe
 ```
 
-14.28.29213.0 - **last version compatible with Windows XP**
+14.28.29213.0 - **last version compatible with Windows XP** / released: 2020-08-12
 ```
 https://download.visualstudio.microsoft.com/download/pr/566435ac-4e1c-434b-b93f-aecc71e8cffc/B75590149FA14B37997C35724BC93776F67E08BFF9BD5A69FACBF41B3846D084/VC_redist.x64.exe
 https://download.visualstudio.microsoft.com/download/pr/566435ac-4e1c-434b-b93f-aecc71e8cffc/0D59EC7FDBF05DE813736BF875CEA5C894FFF4769F60E32E87BD48406BBF0A3A/VC_redist.x86.exe
@@ -660,7 +674,7 @@ https://download.visualstudio.microsoft.com/download/pr/6b03c53c-e1f7-4ac0-8e82-
 https://download.visualstudio.microsoft.com/download/pr/28bd19d3-af87-4c4e-859f-8a656db29219/2864526FAE9AEECE0A877E50B169A188A029058B21A64F5F27429B5D03AD0010/VC_redist.arm64.exe
 ```
 
-14.27.29114.0
+14.27.29114.0 - **last official version compatible with Windows XP** / released: 2020-10-26
 ```
 https://download.visualstudio.microsoft.com/download/pr/722d59e4-0671-477e-b9b1-b8da7d4bd60b/591CBE3A269AFBCC025681B968A29CD191DF3C6204712CBDC9BA1CB632BA6068/VC_redist.x64.exe
 https://download.visualstudio.microsoft.com/download/pr/56f631e5-4252-4f28-8ecc-257c7bf412b8/D305BAA965C9CD1B44EBCD53635EE9ECC6D85B54210E2764C8836F4E9DEFA345/VC_redist.x86.exe
@@ -1122,6 +1136,7 @@ https://download.visualstudio.microsoft.com/download/pr/10912113/5da66ddebb0ad32
 https://support.microsoft.com/en-us/help/3179560/update-for-visual-c-2013-and-visual-c-redistributable-package
 http://download.microsoft.com/download/0/5/6/056dcda9-d667-4e27-8001-8a0c6971d6b1/vcredist_x64.exe
 http://download.microsoft.com/download/0/5/6/056dcda9-d667-4e27-8001-8a0c6971d6b1/vcredist_x86.exe
+http://download.microsoft.com/download/0/5/6/056dcda9-d667-4e27-8001-8a0c6971d6b1/vcredist_arm.exe
 ```
 
 12.0.40649.5
@@ -1402,53 +1417,60 @@ http://web.archive.org/web/20130729085626/http://download.microsoft.com/download
 
 ______________________________
 
-## Microsoft Visual C++ .NET - v7
+## Microsoft Visual C++ .NET 2003 - v7.1
 
-<details><summary>2002/2003</summary>
+<details><summary>2003</summary>
 
 
-.NET 2003 msvcp71.dll - 7.10.6052.0 SP1 / msvcr71.dll - 7.10.7031.4 SP1
+msvcp71.dll - 7.10.6052.0 SP1 / msvcr71.dll - 7.10.7031.4 SP1
 ```
 https://www.betaarchive.com/wiki/index.php/Microsoft_KB_Archive/932298
-http://thehotfixshare.net/board/index.php?/topic/12472-vs71sp1-kb932298-x86-enuexe/
 ```
 
-.NET 2003 MFC71.DLL - 7.10.6119.0 SP1
+MFC71.DLL - 7.10.6119.0 SP1
 ```
 https://www.microsoft.com/en-us/download/details.aspx?id=6818
 http://download.microsoft.com/download/9/7/C/97CABE46-5FB8-4240-A54E-4C83B99116D9/VS7.1sp1-KB2465373-X86.exe
 ```
 
-.NET 2003 MFC71.DLL - 7.10.6101.0 SP1
+MFC71.DLL - 7.10.6101.0 SP1
 ```
 https://www.microsoft.com/en-us/download/details.aspx?id=23288
 http://download.microsoft.com/download/D/9/E/D9ECEE52-613F-4327-8147-073882D999F9/VS7.1sp1-KB971089-X86.exe
 ```
 
-.NET 2003 MFC71.DLL - 7.10.6041.0 SP1
+MFC71.DLL - 7.10.6041.0 SP1
 ```
 https://www.microsoft.com/en-us/download/details.aspx?id=17054
 http://download.microsoft.com/download/f/0/5/f052914b-3a0f-4e90-b039-395005f77ef2/VS7.1sp1-KB927696-X86.exe
 ```
 
-.NET 2003 MFC71.DLL - 7.10.5057.0 RTM
+MFC71.DLL - 7.10.5057.0 RTM
 ```
 http://www.microsoft.com/en-us/download/details.aspx?id=21440
 http://download.microsoft.com/download/5/8/6/586ac9db-5039-4955-9dbc-e4556128220f/VS7.1-KB924643-X86.exe
 ```
+</details>
 
-.NET 2002 msvcr70.dll - 7.0.9981.0 SP1
+______________________________
+
+## Microsoft Visual C++ .NET 2002 - v7.0
+
+<details><summary>2002</summary>
+
+
+msvcr70.dll - 7.0.9981.0 SP1
 ```
 https://www.betaarchive.com/wiki/index.php/Microsoft_KB_Archive/932304
 ```
 
-.NET 2002 MFC70.DLL - 7.0.9975.0 SP1
+MFC70.DLL - 7.0.9975.0 SP1
 ```
 https://www.microsoft.com/en-us/download/details.aspx?id=3644
 http://download.microsoft.com/download/6/b/e/6be11d8a-e0c7-429c-ac8c-9860e313ced9/VS7.0sp1-KB924642-X86.exe
 ```
 
-.NET 2002 MFC70.DLL - 7.0.9801.0 RTM
+MFC70.DLL - 7.0.9801.0 RTM
 ```
 https://www.microsoft.com/en-us/download/details.aspx?id=6430
 http://download.microsoft.com/download/9/8/0/980abbac-26af-42b9-959e-e104e2ef6579/VS7.0-KB924641-X86.exe
